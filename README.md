@@ -150,7 +150,7 @@ Los modelos entrenados se guardan en `models/` con su configuración de hiperpar
 
 ## Integrantes
 
-- Integrante A — Modelado y EDA
-- Integrante B — Evaluación y SHAP
-- Integrante C — Frontend & Backend
-- Integrante D — Documentación y GitHub
+- Adrian Campos — Modelado y EDA
+- Sebastian Matamala — Evaluación y SHAP
+- Richard Pinto  — Frontend & Backend
+- Sebastian Ramirez — Documentación y GitHub
