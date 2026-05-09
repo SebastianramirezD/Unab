@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# acif104_s9_equipoX — Detección Automática de Spam con Machine Learning
+# acif104_s9_grupo5 — Detección Automática de Spam con Machine Learning
 
 **Curso:** ACIF104 — Aprendizaje de Máquinas  
 **Universidad Andrés Bello**  
