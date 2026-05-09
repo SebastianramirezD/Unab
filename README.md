@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # acif104_s9_equipoX — Detección Automática de Spam con Machine Learning
 
 **Curso:** ACIF104 — Aprendizaje de Máquinas  
@@ -158,3 +159,6 @@ Los modelos entrenados se guardan en `models/` con su configuración de hiperpar
 =======
 # Aprendizaje-de-maquina
 >>>>>>> origin/main
+=======
+# Proyecto-UNAB
+>>>>>>> 6ce093d4e3b4fb81bd003fdad0ba48c255666b26
