@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# Datos y modelos (demasiado pesados para Git)
+datasets/raw/*.csv
+datasets/processed/
+models/*.joblib
+models/*.pt
+models/bert_tiny_model/
+*.db
+
+# Node
+node_modules/
+frontend/build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Reportes generados
+reports/*.png
+reports/*.csv
+reports/*.json
+
+# Jupyter
+.ipynb_checkpoints/
