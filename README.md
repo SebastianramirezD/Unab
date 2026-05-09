@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # acif104_s9_equipoX — Detección Automática de Spam con Machine Learning
 
 **Curso:** ACIF104 — Aprendizaje de Máquinas  
@@ -154,3 +155,6 @@ Los modelos entrenados se guardan en `models/` con su configuración de hiperpar
 - Sebastian Matamala — Evaluación y SHAP
 - Richard Pinto  — Frontend & Backend
 - Sebastian Ramirez — Documentación y GitHub
+=======
+# Aprendizaje-de-maquina
+>>>>>>> origin/main
